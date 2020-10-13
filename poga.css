@@ -1,0 +1,48 @@
+.btm {
+cursor: pointer;
+background: aqua;
+border-color: black;
+border-style: solid;
+border-radius: 10px;
+width: 150px;
+height: 40px;
+display: flex;
+margin:10px 10px 0px 0px  ;
+text-decoration:none;
+text-align: center;
+}
+.btm {
+font-size: 1em;
+color: black;
+text-align: center;
+}
+body
+{
+	background-color: LightCyan
+	
+}
+h1{
+text-align: center;
+color: blue;
+size: 24pt;
+}
+h2{
+text-align: center;
+color: red;
+font-size: 100px;
+margin:-550px 0px 0px 300px
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ul{ 
+ list-style-type: none;
+ vertical-align: middle; 
+
+}
+p{
+vertical-align: middle;
+ margin:0px 300px
+}
